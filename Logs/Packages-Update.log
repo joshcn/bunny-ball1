@@ -56,3 +56,11 @@ The following packages were added:
   com.unity.xr.legacyinputhelpers@2.1.10
 The following packages were updated:
   com.unity.timeline from version 1.4.8 to 1.6.4
+
+=== Fri Jan 13 18:47:21 2023
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were updated:
+  com.unity.cinemachine from version 2.6.17 to 2.8.3
